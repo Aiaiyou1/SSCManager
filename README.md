@@ -2,7 +2,7 @@
 
 **作者**：羽学、唉唉有
 
-**开源地址**：https://github\.com/1242509682/CleanSSC
+**开源地址**：[https://github\.com/1242509682/CleanSSC](https://github.com/Aiaiyou1/SSCManager)
 
 **插件适配**：TShock Terraria SSC服务器
 
